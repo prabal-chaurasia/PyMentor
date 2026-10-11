@@ -1,0 +1,4 @@
+.env
+chats/
+__pycache__/
+venv/
